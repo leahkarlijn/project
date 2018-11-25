@@ -8,6 +8,7 @@ Leah van Oorschot
 25 Nov 2018
 
 Proposal Final Project
+
 Hollywood gets accused of sexism on the daily. Mostly because people claim that Hollywood is dominated by (white) men both onscreen and off. But bland claims don’t paint a trustworthy picture of how the situation really is. In my final project I would like to visualize these claims to show the full picture. Tackling the whole problem with sexism in Hollywood would be way too much so I’ve decided to focus on one particular, very influential company: Disney.
 My dataset will not try to prove anything but rather visualize the data which can be used to prove points on sexism in Hollywood. 
 The main features of my interactive data will be:
